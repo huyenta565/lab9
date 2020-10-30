@@ -1,0 +1,14 @@
+﻿LƯU Ý TRƯỚC KHI GHOST MÁY
+
+1. XÓA HISTORY CHROME
+2. DỌN RÁC
+3. CHẠY CHỐNG PHÂN MẢNH
+4. Xóa thư mục Download
+
+
+-----------
+
+LƯU Ý SAU KHI GHOST
+
+1. CHẠY LẠI KEY CHO PHP STORM
+2. Bật chế độ tự động đăng nhập máy giảng viên
